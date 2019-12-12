@@ -1,5 +1,6 @@
-![image](pic/TAIScoreLogo.png)
-
+<div align="center">
+    <img src="https://github.com/Spencerai/tscore/blob/master/pic/TAIScoreLogo.png" width="256px"/>
+</div>
 
 # TAIScore
    
