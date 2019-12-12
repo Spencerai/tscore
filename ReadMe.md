@@ -7,7 +7,7 @@
    
 
 ## Install
-via pip (current not support)
+via pip
 ```bash
 pip install tscore
 ```
