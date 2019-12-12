@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="http://10.3.200.67/coremail/s?sid=CAKVjXKKrYOAcXBYyiKKTFKTsNCxgjqc&func=getInsidePageLogoData" />
-</div>
+![image](pic/TAIScoreLogo.png)
 
 
 # TAIScore
@@ -75,4 +73,4 @@ generate risk rules from data
 model monitor
 
 ## Authors
-016803@zjtlcb.com
+spencercs.ai@gmail.com
